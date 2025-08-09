@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutFitGen_User_API", "OutFitGen_User_API.csproj", "{BFE1D62A-545B-453D-BE47-32405353AC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE1D62A-545B-453D-BE47-32405353AC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE1D62A-545B-453D-BE47-32405353AC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE1D62A-545B-453D-BE47-32405353AC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE1D62A-545B-453D-BE47-32405353AC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6494CBB-5910-48EB-9711-9A982E9E2D77}
+	EndGlobalSection
+EndGlobal

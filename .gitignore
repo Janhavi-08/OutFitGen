@@ -1,0 +1,5 @@
+# Visual Studio
+.vs/
+*.vsidx
+bin/
+obj/
